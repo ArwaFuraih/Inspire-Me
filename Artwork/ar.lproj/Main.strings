@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Finalized Masterpiece"; ObjectID = "1sV-8c-uy5"; */
+"1sV-8c-uy5.text" = "Finalized Masterpiece";
+
+/* Class = "UITextView"; text = "The Process of inspiration and brining the sketch into life to represent the fox spirit was such a fun expierence !\n\n"; ObjectID = "E6q-VM-ZGq"; */
+"E6q-VM-ZGq.text" = "The Process of inspiration and brining the sketch into life to represent the fox spirit was such a fun expierence !\n\n";
+
+/* Class = "UILabel"; text = "Zendaya"; ObjectID = "FtF-eG-OQC"; */
+"FtF-eG-OQC.text" = "Zendaya";
+
+/* Class = "UILabel"; text = "Before"; ObjectID = "HwA-er-Fqk"; */
+"HwA-er-Fqk.text" = "Before";
+
+/* Class = "UISegmentedControl"; PUc-tX-I8N.segmentTitles[0] = "En"; ObjectID = "PUc-tX-I8N"; */
+"PUc-tX-I8N.segmentTitles[0]" = "En";
+
+/* Class = "UISegmentedControl"; PUc-tX-I8N.segmentTitles[1] = "Ar"; ObjectID = "PUc-tX-I8N"; */
+"PUc-tX-I8N.segmentTitles[1]" = "Ar";
+
+/* Class = "UILabel"; text = "Alanoud"; ObjectID = "X4h-vA-axV"; */
+"X4h-vA-axV.text" = "Alanoud";
+
+/* Class = "UILabel"; text = "$2000"; ObjectID = "dan-ag-2jm"; */
+"dan-ag-2jm.text" = "$2000";
+
+/* Class = "UILabel"; text = "Artwork Progress"; ObjectID = "fvU-J0-RQK"; */
+"fvU-J0-RQK.text" = "Artwork Progress";
+
+/* Class = "UILabel"; text = "After"; ObjectID = "jAc-z6-1b9"; */
+"jAc-z6-1b9.text" = "After";
+
+/* Class = "UILabel"; text = "Pay with credit card"; ObjectID = "pdX-mW-8VD"; */
+"pdX-mW-8VD.text" = "Pay with credit card";
+
+/* Class = "UINavigationItem"; title = "Artwork Shop"; ObjectID = "xdQ-Ow-juD"; */
+"xdQ-Ow-juD.title" = "Artwork Shop";

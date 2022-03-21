@@ -1,0 +1,191 @@
+/* 
+  Localizable.strings
+  Artwork
+
+  Created by Arwa Alfuraih on 01/03/2022.
+  
+*/
+
+
+
+//-------Artwork Shop Page-------//
+"Artwork Progress" = " مراحل تطور الرسمة";
+"Before" = "قبل";
+"Alanoud" = "العنود" ;
+"Finalized Masterpiece" = "التحفة الفنية النهائية" ;
+"The Process of inspiration and brining the sketch into life to represent the fox spirit was such a fun expierence !" = "كانت عملية الإلهام وإدخال الرسم في الحياة لتمثيل روح الثعلب تجربة ممتعة!" ;
+"After" = "بعد" ;
+"Pay with credit card" = "دفع عن طريق بطاقة الائتمان" ;
+"Zendaya" = "زيندايا" ;
+"Artwork Shop" = "سوق الأعمال الفنية" ;
+"$2000"="$٢٠٠٠";
+"Contract Agreement"="عقد الاتفاق";
+
+ //----Settings Page -----//
+"Account Settings" = "اعدادات الحساب";
+"Change Password" = "تغيير كلمة المرور";
+"Language" = "لغة البرنامج";
+"LogOut" = "تسجيل الخروج";
+"Name" = "الاسم:";
+"Email" = "الايميل:";
+"Alice Marc" = "أليس مارك";
+
+//------Tab Bar---------//
+
+"Gallery" = "المعرض";
+"Add Piece" = "أضف قطعتك";
+"Profile"="الحساب";
+
+//------ Alert ---------//
+
+"Success!!"="تم بنجاح !";
+"You've downloaded the Art Piece File Successfully"="لقد قمت بتنزيل الملف بنجاح";
+
+//-----------------------------//
+//---------Arwa Alzahrani------//
+//-----------------------------//
+
+"Lend" = "إعارة";
+"Waive" = "تخلي";
+"Name of piece:" = "اسم القطعة";
+"Enter your art piece name" = "ادخل اسم القطعة";
+"Painting story: " = "قصة القطعة";
+"Tell your artwork story" = "اكتب نبذه عن قطعتك الفنية";
+"Tags:" = "المواضيع";
+"Portrait" = "بورتريه";
+"Cities" = "مدن";
+"People" = "اشخاص";
+"Music" = "موسيقى";
+"Animal" = "حيوانات";
+"Add" = "إضافة";
+"Cancel" = "إلغاء";
+"Waiver" = "مُعار";
+"I spent 3 hours working on the begining of this art piece , I stoped work on it since I lost my passion when my tablet has broken , I’m interesting to see how can someone finish it in different way." = "لقد أمضيت 3 ساعات في العمل على بداية هذه القطعة الفنية ، وتوقفت عن العمل عليها منذ أن فقدت شغفي عندما انكسر جهازي اللوحي ، ومن الممتع أن أرى كيف يمكن لشخص ما إنهاءها بطريقة مختلفة.";
+"Choose" = "اختيار";
+"Upload photo from:" = "رفع من الجهاز";
+"Camera" = "الكاميرا";
+"Photo library" = "استديو الصور";
+"View All"="رؤية الكل";
+
+//-----------------------------//
+//---------Reem Alharthi------//
+//-----------------------------//
+
+"$2000" = "$٢٠٠٠";
+
+
+/* No comment provided by engineer. */
+"$3000" = "$٣٠٠٠";
+
+/* No comment provided by engineer. */
+"$6000" = "$٦٠٠٠";
+
+/* No comment provided by engineer. */
+"Alany" = "ألاني";
+
+/* No comment provided by engineer. */
+"Animals" = "حيوانات";
+
+/* No comment provided by engineer. */
+"Artiest" = "فنانين";
+
+/* No comment provided by engineer. */
+"Asel" = "آصال";
+
+/* No comment provided by engineer. */
+"Building" = "أبنية";
+
+/* No comment provided by engineer. */
+"Early sketch for women artpiece" = "رسوم بدائية عن امرأة";
+
+/* No comment provided by engineer. */
+"Face" = "وجه";
+
+/* No comment provided by engineer. */
+"Face Sketch and nead to be done" = "رسم سكتشات يحتاج اكمال";
+
+/* No comment provided by engineer. */
+"Foods" = "طعام";
+
+/* No comment provided by engineer. */
+"Hany" = "هاني";
+
+/* No comment provided by engineer. */
+"Laila" = "ليلى";
+
+/* No comment provided by engineer. */
+"Lend" = "اعارة";
+
+/* No comment provided by engineer. */
+"Music" = "موسيقى";
+
+/* No comment provided by engineer. */
+"Nature" = "طبيعة";
+
+/* No comment provided by engineer. */
+"People" = "أشخاص";
+
+/* No comment provided by engineer. */
+"Piece of art and people relaxing" = "لوحة فنية لمجموعة أشخاص";
+
+/* No comment provided by engineer. */
+"Piece of art nead to complate" = "لوحة فنية تحتاج اكمال";
+
+/* No comment provided by engineer. */
+"Pieces" = "قطع فنية";
+
+/* No comment provided by engineer. */
+"Ram" = "رام";
+
+/* No comment provided by engineer. */
+"Sketch" = "سكتش";
+
+/* No comment provided by engineer. */
+"Tower" = "برج";
+
+/* No comment provided by engineer. */
+"Tower in Town nead to coluring" = "برج في مدينة يحتاج تلوين";
+
+/* No comment provided by engineer. */
+"Unfinshed face for women paint" = "رسم امرأه غير مكتمل";
+
+/* No comment provided by engineer. */
+"wiaver" = "تنازل";
+
+/* No comment provided by engineer. */
+"Women" = "امرأة";
+
+
+"Exchange Artwork "="تبادل العمل الفني";
+"View All"="مشاهدة الكل";
+"Shop Masterpiec"="تسوق القطع الفنية";
+"Inspire me!"="ألهمني!";
+//-----------------------------//
+//-------Sara Alshammari ------//
+//-----------------------------//
+
+"The first party retains property rights. In the event of a violation or breach by the second party,the second party obligated to compensate the first party for psychological and material damage. The parties are also obligated to:" = "يحتفظ الطرف الأول بحقوق الملكية. في حال وجود مخالفة أو مخالفة من قبل الطرف الثاني يلتزم الطرف الثاني بتعويض الطرف الأول عن الضرر النفسي والمادي. الأطراف ملزمة أيضًا بما يلي:";
+"I, the owner of the painting allow the application to lend the painting to the second party under the condition of returning the painting , after the period of one month . In case the painting gets sold, the second party has the right to collect 40% and the application gets 10% of the selling price." = "أنا مالك اللوحة أسمح للتطبيق بإعارة اللوحة للطرف الثاني بشرط إعادة اللوحة بعد فترة شهر. في حال بيع اللوحة يحق للطرف الثاني تحصيل 40٪ والتطبيق 10٪ من سعر البيع.";
+"I, the owner of the painting allow the application to lend the painting to the second party without return, and each party has the right to fully utilize the painting and the application gets 10% " = "أنا مالك اللوحة أسمح للتطبيق بإعارة اللوحة للطرف الثاني بدون مقابل ولكل طرف الحق في الاستفادة الكاملة من اللوحة ويحصل التطبيق على 10٪";
+"Accept" = "اوافق";
+"Decline" = "رفض";
+"Wohoo!" = "اخيراً";
+"You’ve uploaded your artwork to exchange successfully!" = "لقد قمت بتحميل عملك الفني للتبادل بنجاح!";
+"Dismess" = "تجاهل";
+"Note" = "ملاحظة";
+"In Order to purchase the masterpiece you must agree to the contract!" = "حتى تتمكن من شراء القطعة الفنية يجب ان توافق على شروط العقد";
+"Download Artwork" = "تنزيل العمل الفني";
+
+//-----------------------------//
+//---------Hanan Alansari------//
+//-----------------------------//
+"Artist Profile" = "الملف الشخصي";
+"Edit Profile" = "تحرير الملف";
+"Save" = "حفظ";
+"Back" = "رجوع";
+"Alice Marc" = "آليس مارس";
+"Bio" = "السيرة الذاتية";
+"A digital and traditional artist intersted in nature paintings" = "فنان رقمي وتقليدي مهتم برسومات الطبيعة";
+"Contact" = "اتصال";
+"Exchange" = "تبادل";
+"Shop" = "متجر";
